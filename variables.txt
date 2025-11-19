@@ -1,5 +1,5 @@
 [Variables]
-blobifier = {'current_blobs': 1, 'last_shake': 0}
+blobifier = {'current_blobs': 3, 'last_shake': 2}
 nozzle_expansion_applied_offset = 0
 nozzle_expansion_coefficient = 0.04250000000177745
 
