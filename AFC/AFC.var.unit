@@ -1,14 +1,14 @@
 {
     "NightOwl": {
-        "lane1": {
-            "name": "lane1",
+        "lane2": {
+            "name": "lane2",
             "unit": "NightOwl",
             "hub": "NightOwl_Hub",
             "extruder": "extruder",
             "buffer": "TN",
             "buffer_status": "Unknown",
             "lane": 1,
-            "map": "T0",
+            "map": "T1",
             "load": true,
             "prep": true,
             "tool_loaded": false,
@@ -28,15 +28,15 @@
             "dist_hub": 45.0,
             "td1_data": {}
         },
-        "lane2": {
-            "name": "lane2",
+        "lane1": {
+            "name": "lane1",
             "unit": "NightOwl",
             "hub": "NightOwl_Hub",
             "extruder": "extruder",
             "buffer": "TN",
             "buffer_status": "Unknown",
             "lane": 2,
-            "map": "T1",
+            "map": "T0",
             "load": true,
             "prep": true,
             "tool_loaded": false,
