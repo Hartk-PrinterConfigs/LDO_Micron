@@ -1,6 +1,6 @@
 [Variables]
 active_tool = 0
-blobifier = {'current_blobs': 113, 'last_shake': 0}
+blobifier = {'current_blobs': 115, 'last_shake': 0}
 nozzle_expansion_applied_offset = 0
 nozzle_expansion_coefficient = 0.04250000000177745
 
