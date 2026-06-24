@@ -91,7 +91,7 @@
           "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 381.5182189941406,
+          "remaining_weight_g": 214.21836853027344,
           "spool_name": "",
           "spoolman_id": 0,
           "total_weight_g": 1000.0
@@ -144,7 +144,7 @@
             "tmc5160 stepper_y",
             "temperature_sensor NightOwl-ERB"
           ],
-          "timestamp": "2026-06-23T16:37:38Z"
+          "timestamp": "2026-06-24T16:28:42Z"
         },
         "optional": []
       },
