@@ -48,6 +48,19 @@
         "phases": {},
         "timestamp": 1774375898,
         "total": 0
+      },
+      {
+        "phases": {},
+        "timestamp": 1774375898,
+        "total": 0
+      },
+      {
+        "phases": {
+          "7": 148
+        },
+        "temp_bucket": 1,
+        "timestamp": 1787256513,
+        "total": 357
       }
     ]
   },
@@ -144,7 +157,7 @@
             "tmc5160 stepper_y",
             "temperature_sensor NightOwl-ERB"
           ],
-          "timestamp": "2026-08-20T17:18:49Z"
+          "timestamp": "2026-08-20T20:17:20Z"
         },
         "optional": []
       },
@@ -498,6 +511,16 @@
   "telemetry_enabled": false,
   "theme": {
     "preset": 0
+  },
+  "thermal": {
+    "rates": {
+      "extruder": {
+        "heat_rate": 0.7015166878700256
+      },
+      "heater_bed": {
+        "heat_rate": 3.833238363265991
+      }
+    }
   },
   "tour": {
     "completed": true,
