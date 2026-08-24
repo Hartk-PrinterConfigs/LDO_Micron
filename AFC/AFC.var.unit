@@ -6,12 +6,12 @@
             "hub": "NightOwl_Hub",
             "extruder": "extruder",
             "buffer": "TN",
-            "buffer_status": "Trailing",
+            "buffer_status": "Advancing",
             "lane": 2,
-            "map": "T1",
+            "map": "T0",
             "load": true,
             "prep": true,
-            "tool_loaded": false,
+            "tool_loaded": true,
             "loaded_to_hub": true,
             "material": null,
             "density": 1.24,
@@ -19,12 +19,12 @@
             "empty_spool_weight": 190,
             "spool_id": null,
             "color": "",
-            "weight": 993,
+            "weight": 977,
             "extruder_temp": null,
             "runout_lane": "lane2",
-            "filament_status": "Ready",
-            "filament_status_led": "#00cc00",
-            "status": "Loaded",
+            "filament_status": "In Tool",
+            "filament_status_led": "#0000ff",
+            "status": "Tooled",
             "dist_hub": 45.0,
             "td1_data": {}
         },
@@ -34,9 +34,9 @@
             "hub": "NightOwl_Hub",
             "extruder": "extruder",
             "buffer": "TN",
-            "buffer_status": "Trailing",
+            "buffer_status": "Advancing",
             "lane": 1,
-            "map": "T0",
+            "map": "T1",
             "load": true,
             "prep": true,
             "tool_loaded": false,
@@ -58,13 +58,13 @@
         }
     },
     "system": {
-        "current_load": null,
+        "current_load": "lane1",
         "num_units": 1,
         "num_lanes": 2,
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": null
+                "lane_loaded": "lane1"
             }
         },
         "bypass": {
